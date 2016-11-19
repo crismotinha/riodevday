@@ -19,9 +19,17 @@ h2 {
 	margin-bottom: 7%;
 	font-size: 2.25em;
 }
+p {
+    font-size: 1.75em;
+}
+#como>li {
+    font-size: 1.5em;
+}
+
 .slide q {
 	margin:2%;
 }
+
 .timeline {
 	border: 6px dotted white;
 }
@@ -135,3 +143,19 @@ h2 {
 #hoje, #big {
     font-size: 5em;
 }
+
+#codecademy {
+    position: absolute;
+    top:-330px;
+    left:331px;
+    height: 200px;
+    z-index: 100;
+}
+/*
+#codecademy {
+    position: absolute;
+    top:-350px;
+    left:-60px;
+    height: 700px;
+    width: px;
+}*/
