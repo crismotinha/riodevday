@@ -79,7 +79,9 @@ p {
     height: 100px;
     width: 150px;
 }
-
+.menor {
+    font-size: 17px;
+}
 .itemP:after {
     content:'';
     display:block;
